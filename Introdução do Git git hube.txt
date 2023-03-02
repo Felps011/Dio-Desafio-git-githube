@@ -1,0 +1,4 @@
+  #Primeiro comando com git 
+##inicia git -git
+###adicionar pasta git add
+####criar commit git commit
