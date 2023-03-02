@@ -1,0 +1,5 @@
+#Git hube é uma plataforma para gerenciar seu código e cria uma ambiente
+de colaboração entre devs , utilizando o git como sistema de controle.
+
+O sistema web que ele possui permite que você altere arquivos lá mesmo, apesar
+ de não ser muito aconselhado, pois você não terá um editor, um ambiente de desenvolvimento e testes. Para se comunicar com o github e mexer nos arquivos do seu reposítorio, você pode usar a linha de comando, usando o comando do git e suas diretivas de commit, pull e push. Parece assustador? Há uma alternativa: usar um aplicativo desktop mais intuitivo, o GitHub Desktop, veja a seguir.
